@@ -1,6 +1,6 @@
 # Autonomous Obstacle Avoidance Robot
 
-![Demo](demo.gif)
+[Video.zip](https://github.com/Quan20021511/Sel-Navigating-Robot/assets/129273695/c848efc3-a4e0-4546-b30f-a551b2e44915)
 
 ## Overview
 This project demonstrates an autonomous robot built with Arduino that can navigate and avoid obstacles using ultrasonic sensors. The robot's movements are controlled based on sensor readings, allowing it to move forward, backward, turn, and avoid collisions effectively.
